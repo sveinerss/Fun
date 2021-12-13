@@ -1,0 +1,5 @@
+Merry X-Mas! 
+Some people do Chocolate Christmas Advent Calendars. 
+My friends decided to do a Coding Advent instead.
+
+My attempt to solve all challenges. All challenges can be found here :  https://adventofcode.com/
