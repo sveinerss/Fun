@@ -68,6 +68,8 @@ def bit_ox (arr)
     return oxygen
 end
 require "byebug"
+
+
 def bit_co (arr)
     i = 0
     co = arr
